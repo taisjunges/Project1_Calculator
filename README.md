@@ -1,6 +1,6 @@
 # Project1_Calculator
 This projet consists of a simple calculator that performs the four fundamental arithmetic operations: addition, subtraction, multiplication, and division. The project includes:
-- A Python script (calculadora.py) that executes the calculations.
+- A Python script (calculadora.py) that executes the four fundamental arithmetic operations. Its use is very intuitive, and you just need to follow the commands requested by the program.
 - A Shell Script (calculadora.sh) to running the calculator in the terminal.
 ## How to run in the terminal
 ! You neeed to have Python3 installed on the system
