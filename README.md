@@ -10,4 +10,4 @@ This projet consists of a simple calculator that performs the four fundamental a
 2. cd Project1_Calculator
 3. chmod +x calculadora.sh
 4. ./calculadora.sh
-5. Follow the commands requested by the program "calculadora.py" to perform the desired operations."
+5. Follow the commands requested by the program "calculadora.py" to perform the desired operations.
